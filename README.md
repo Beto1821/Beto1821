@@ -1,4 +1,4 @@
-Hi 👋 My name is ADALBERTO RAMOS RIBEIRO
+ADALBERTO RAMOS RIBEIRO
 ========================================
 
 DEV FULL STACK Study on www.trybe.com.br
