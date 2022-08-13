@@ -35,10 +35,11 @@ Contate me: +55(35)999802-2002(PHONE and WhatsApp)
 
 <b>My GitHub Stats</b>
 
-<img src="https://wakatime.com/share/@805bbf73-01c0-4ba3-b363-ea07ddc25911/592bc58e-1f7e-42ed-b504-f2013b820b00.svg" height="400"></img>
 
 <a href="http://www.github.com/Beto1821"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Beto1821&stroke=ffffff&background=22272e&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/Beto1821"><img src="https://activity-graph.herokuapp.com/graph?username=Beto1821&bg_color=22272e&color=ffffff&line=0891b2&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Beto1821" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beto1821&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<img src="https://wakatime.com/share/@805bbf73-01c0-4ba3-b363-ea07ddc25911/592bc58e-1f7e-42ed-b504-f2013b820b00.svg" height="400"></img>
