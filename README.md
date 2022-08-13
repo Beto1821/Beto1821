@@ -33,9 +33,9 @@ Contate me: +55(35)999802-2002(PHONE and WhatsApp)
 
 ### Badges
 
-<figure><embed src="https://wakatime.com/share/@805bbf73-01c0-4ba3-b363-ea07ddc25911/592bc58e-1f7e-42ed-b504-f2013b820b00.svg"></embed></figure>
-
 <b>My GitHub Stats</b>
+
+<img src="https://wakatime.com/share/@805bbf73-01c0-4ba3-b363-ea07ddc25911/592bc58e-1f7e-42ed-b504-f2013b820b00.svg"></img>
 
 <a href="http://www.github.com/Beto1821"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Beto1821&stroke=ffffff&background=22272e&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
