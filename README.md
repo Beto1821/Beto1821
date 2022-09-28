@@ -6,8 +6,6 @@ ADALBERTO RAMOS RIBEIRO
 DEV FULL STACK Study at www.trybe.com.br
 ----------------------------------------
 
-Contate me: +55(35)999802-2002(PHONE and WhatsApp)
-
 * 🌍  I'm based in MInas Gerais , Brazil
 * ✉️  You can contact me at [beto1821@uol.com.br](mailto:beto1821@uol.com.br)
 *  https://www.linkedin.com/in/adalberto-ribeiro-344092107/
