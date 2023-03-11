@@ -45,6 +45,6 @@ DEV FULL STACK Study at www.trybe.com.br
 
 <a href="http://www.github.com/Beto1821"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Beto1821&stroke=ffffff&background=22272e&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/Beto1821"><img src="https://activity-graph.herokuapp.com/graph?username=Beto1821&bg_color=22272e&color=ffffff&line=0891b2&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/Beto1821"><img src="https://activity-graph.herokuapp.com/graph?username=Beto1821&bg_color=22272e&color=ffffff&line=0891b2&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="" /></a>
 
 
