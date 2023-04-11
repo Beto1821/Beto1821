@@ -14,29 +14,50 @@ DEV FULL STACK Study at www.trybe.com.br
 * ✉️  You can contact me at [beto1821@uol.com.br](mailto:beto1821@uol.com.br)
 *  https://www.linkedin.com/in/adalberto-ribeiro-344092107/
 
-### Skills
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-</p>
+<div align="center">
+<h2>Ferramentas:</h2>
 
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=red)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
+![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code&logoColor=blue) 
+![ESlint](https://img.shields.io/badge/-ESlint-black?style=flat-square&logo=eslint&logoColor=purple)
+![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=Bash)
+ 
+  
+  <h2>Front-end:</h2>
 
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux&logoColor=purple)
+  
+  <h2>Back-end:</h2>
+  
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
+![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku&logoColor=C295BE)
+![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-00000F?style=flat-square&logo=mongodb)
+![Npm](https://img.shields.io/badge/-npm-black?style=flat-square&logo=npm)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Sequelize](https://img.shields.io/badge/-Sequelize-black?style=flat-square&logo=sequelize)
+![Mongooose](https://img.shields.io/badge/-Mongoose-black?style=flat-square&logo=mongodb&logoColor=891500)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&logoColor=blue)
+  
+  <h2>Testes:</h2>
+  
+![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest&logoColor=red)
+![Mocha](https://img.shields.io/badge/-Mocha-black?style=flat-square&logo=mocha&logoColor=brown)
+![Chai](https://img.shields.io/badge/-Chai-black?style=flat-square&logo=chai&logoColor=red)
+![Sinon](https://img.shields.io/badge/-Sinon-black?style=flat-square&logo=sinon)
+![TestingLibrary](https://img.shields.io/badge/-TestingLibrary-black?style=flat-square&logo=testinglibrary&logoColor=red)
+</div>
 
-### Socials
+<div align="center">
 
-<p align="left"> <a href="https://discord.com/users/beto1821#3858" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Beto1821" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.polywork.com/adalberto-ribeiro-344092107" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
@@ -47,4 +68,7 @@ DEV FULL STACK Study at www.trybe.com.br
 
 <a href="http://www.github.com/Beto1821"><img src="https://activity-graph.herokuapp.com/graph?username=Beto1821&bg_color=22272e&color=ffffff&line=0891b2&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="" /></a>
 
+<div width="100%" align="center">
+  <a href="https://github.com/Beto1821" align="left"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Fernanda-Vidal&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=171717&locale=en&custom_title=Top%20%Languages&theme=dark" alt="Top Languages" /></a>
+</div>
 
