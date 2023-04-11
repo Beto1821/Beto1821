@@ -59,8 +59,6 @@ DEV FULL STACK Study at www.trybe.com.br
 <div align="center">
 
 
-### Badges
-
 <b>My GitHub Stats</b>
 
 
