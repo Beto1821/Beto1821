@@ -4,7 +4,6 @@
 
 </div>
 
-ADALBERTO RAMOS RIBEIRO
 ========================================
 
 DEV FULL STACK Study at www.trybe.com.br
