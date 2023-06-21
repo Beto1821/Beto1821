@@ -4,7 +4,7 @@
 
 </div>
 
-DEV FULL STACK Study at www.trybe.com.br
+DEV FULL STACK Study
 ----------------------------------------
 
 * 🌍  I'm based in MInas Gerais , Brazil
