@@ -43,6 +43,7 @@ DEV FULL STACK Study
 ![Sequelize](https://img.shields.io/badge/-Sequelize-black?style=flat-square&logo=sequelize)
 ![Mongooose](https://img.shields.io/badge/-Mongoose-black?style=flat-square&logo=mongodb&logoColor=891500)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&logoColor=blue)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
   
   <h2>Testes:</h2>
   
