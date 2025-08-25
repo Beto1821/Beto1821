@@ -56,15 +56,3 @@ DEV FULL STACK Study
 
 <div align="center">
 
-
-<b>My GitHub Stats</b>
-
-
-<a href="http://www.github.com/Beto1821"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Beto1821&stroke=ffffff&background=22272e&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/Beto1821"><img src="https://activity-graph.herokuapp.com/graph?username=Beto1821&bg_color=22272e&color=ffffff&line=0891b2&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="" /></a>
-
-<div width="100%" align="center">
-  <a href="https://github.com/Beto1821" align="left"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Fernanda-Vidal&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=171717&locale=en&custom_title=Top%20%Languages&theme=dark" alt="Top Languages" /></a>
-</div>
-
