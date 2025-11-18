@@ -4,10 +4,10 @@
 
 </div>
 
-DEV FULL STACK Study
+DEV FULL STACK
 ----------------------------------------
 
-* 🌍  I'm based in MInas Gerais , Brazil
+* 🌍  I'm based in Minas Gerais, Brazil
 * ✉️  You can contact me at [beto1821@uol.com.br](mailto:beto1821@uol.com.br)
 *  https://www.linkedin.com/in/adalberto-ramos-ribeiro-344092107/
 
