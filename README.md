@@ -10,11 +10,11 @@ DEV FULL STACK
 * 🌍  I'm based in Minas Gerais, Brazil
 * ✉️  You can contact me at [beto1821@uol.com.br](mailto:beto1821@uol.com.br)
 *  https://www.linkedin.com/in/adalberto-ramos-ribeiro-344092107/
-*  Cartão de visita: https://personal-portifolio-theta.vercel.app/
+*  Visit Card: https://personal-portifolio-theta.vercel.app/
 
 
 <div align="center">
-<h2>Ferramentas:</h2>
+<h2>Tools:</h2>
 
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=red)
@@ -52,7 +52,7 @@ DEV FULL STACK
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
 ![Mermaid](https://img.shields.io/badge/-Mermaid-black?style=flat-square&logo=mermaid)
 
-<h2>Testes:</h2>
+<h2>Tests:</h2>
 
 ![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest&logoColor=red)
 ![Mocha](https://img.shields.io/badge/-Mocha-black?style=flat-square&logo=mocha&logoColor=brown)
