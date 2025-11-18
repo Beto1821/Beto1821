@@ -10,6 +10,7 @@ DEV FULL STACK
 * 🌍  I'm based in Minas Gerais, Brazil
 * ✉️  You can contact me at [beto1821@uol.com.br](mailto:beto1821@uol.com.br)
 *  https://www.linkedin.com/in/adalberto-ramos-ribeiro-344092107/
+*  Cartão de visita: https://personal-portifolio-theta.vercel.app/
 
 
 <div align="center">
